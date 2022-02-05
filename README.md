@@ -27,7 +27,7 @@ Python 3.7.6 and Anaconda 2020.11
 
     - For deep-learning neural network model I used two hidden layers with 80 and 30 neurons, respectively. 
       Activation function 'relu' was used for two hidden layer and sigmoid was used for the output layer.
-      However, during combiling chekcpoint process (model fit using X_train scaled) the 
+      And achieved 66% accuracy, however, during combiling chekcpoint process (model fit using X_train scaled) the 
       accuracy value was increased to 73%. 
     
 ![](XYtrain.png)
@@ -36,7 +36,8 @@ Python 3.7.6 and Anaconda 2020.11
 
 ##### Attempt 1:- adding more neurons to layer 1 and 2 
 - In first attempt the number of neurons were increased to 100 and 40 for layer 1 and 2, 
-  respectively and achieved 66% accuracy. 
+  respectively. 
+
 ![](Attempt1.png)
 
 ##### Attempt 2:- adding more hidden layers 
