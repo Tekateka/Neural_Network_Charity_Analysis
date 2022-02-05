@@ -51,7 +51,7 @@ Python 3.7.6 and Anaconda 2020.11
 
 ## Summary 
 
-Based on the above attempts made to optimize the model, there was no difference among the models in accuracy and loss values, 
+Based on the above analysis made to optimize the model, there was no difference among the models in accuracy and loss values and
 about 73% accuracy was achieved. However, the model did achieve the target model performance of 75% accuracy. 
 Models such as Random Forest Classifier could improve the predictive accuracy of the model since we created a binary classification 
 and this model can combine multiple smaller models into a more robust, and its ability to train large dataset.  
